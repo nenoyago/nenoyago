@@ -2,7 +2,7 @@
 
 # 🙋‍♂️ Hello world !
 
-Yago Neno, 27 years, Rio de Janeiro - Brazil 👾
+Yago Neno, 28 years, Rio de Janeiro - Brazil 👾
 
 Student of the Javascript stack, React, React Native, Angular, Node, ES6, in order to learn more about the technology and be able to improve my skills in it.
 
