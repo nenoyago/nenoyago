@@ -1,23 +1,45 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<h1 align="center">Yago Neno</h1>
+<h3 align="center">Senior Frontend Engineer &nbsp;|&nbsp; React &amp; Next.js &nbsp;|&nbsp; Rio de Janeiro, Brazil</h3>
 
-# 🙋‍♂️ Hello world !
+<p align="center">
+  <a href="https://www.linkedin.com/in/nenoyago/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-Yago Neno, 28 years, Rio de Janeiro - Brazil 👾
+<br/>
 
-Student of the Javascript stack, React, React Native, Angular, Node, ES6, in order to learn more about the technology and be able to improve my skills in it.
+## About
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogiampietro&layout=compact&theme=radical" alt="My Github Stats">
+Senior frontend engineer focused on building scalable interfaces, component architecture, and performance. Hands-on experience with React, Next.js, and TypeScript, working from architecture decisions through to shipping high-quality products.
 
-## - 🧠 Technologies
+## Stack
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+**Languages & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-323330?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-323330?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-323330?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-323330?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-323330?style=flat-square&logo=angular&logoColor=DD0031" />
+</p>
 
-## - 📫 Linkedin
+**Backend & Tooling**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-323330?style=flat-square&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Git-323330?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Jest-323330?style=flat-square&logo=jest&logoColor=C21325" />
+  <img src="https://img.shields.io/badge/Cypress-323330?style=flat-square&logo=cypress&logoColor=white" />
+</p>
 
-[Linkedin](https://www.linkedin.com/in/nenoyago/)
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nenoyago&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenoyago&layout=compact&theme=default&hide_border=true" />
+</p>
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/nenoyago](https://www.linkedin.com/in/nenoyago/)
