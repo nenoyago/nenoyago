@@ -1,5 +1,5 @@
 <h1 align="center">Yago Neno</h1>
-<h3 align="center">Senior Frontend Engineer &nbsp;|&nbsp; React &amp; Next.js &nbsp;|&nbsp; Rio de Janeiro, Brazil</h3>
+<h3 align="center">Senior Frontend Engineer &nbsp;|&nbsp; React &amp; Next.js</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nenoyago/" target="_blank">
@@ -33,12 +33,11 @@ Senior frontend engineer focused on building scalable interfaces, component arch
   <img src="https://img.shields.io/badge/Cypress-323330?style=flat-square&logo=cypress&logoColor=white" />
 </p>
 
-## Focus
-
-- Building performant, accessible interfaces with React and Next.js
-- Component architecture and design systems
-- Testing and code quality (Jest, Cypress, React Testing Library)
-- Mentoring and technical interviews for frontend roles
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-Rio de Janeiro, Brazil-323330?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Frontend Architecture-323330?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-Senior Level-323330?style=flat-square" />
+</p>
 
 ## Contact
 
