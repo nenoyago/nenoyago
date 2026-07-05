@@ -36,8 +36,8 @@ Senior frontend engineer focused on building scalable interfaces, component arch
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nenoyago&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenoyago&layout=compact&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nenoyago&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenoyago&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
 </p>
 
 ## Contact
