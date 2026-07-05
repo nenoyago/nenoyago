@@ -33,12 +33,12 @@ Senior frontend engineer focused on building scalable interfaces, component arch
   <img src="https://img.shields.io/badge/Cypress-323330?style=flat-square&logo=cypress&logoColor=white" />
 </p>
 
-## GitHub Stats
+## Focus
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nenoyago&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenoyago&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
-</p>
+- Building performant, accessible interfaces with React and Next.js
+- Component architecture and design systems
+- Testing and code quality (Jest, Cypress, React Testing Library)
+- Mentoring and technical interviews for frontend roles
 
 ## Contact
 
